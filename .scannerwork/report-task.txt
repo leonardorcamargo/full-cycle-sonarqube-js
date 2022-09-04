@@ -1,0 +1,6 @@
+projectKey=js-project
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=js-project
+ceTaskId=AYMFl4tFoJKwPyK5A4H0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYMFl4tFoJKwPyK5A4H0
